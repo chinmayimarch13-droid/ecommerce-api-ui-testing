@@ -1,0 +1,8 @@
+TC01 - Valid Login
+Expected: Login success
+
+TC02 - Invalid Login
+Expected: Error message
+
+TC03 - Search Product
+Expected: Product list shown
