@@ -17,7 +17,7 @@
 - UI Automation
 - Test Cases
 - Screenshots
-##Progress Update
+## Progress update
 Complete selenium login and cart automation
 ## Authore
 Chinmayii
